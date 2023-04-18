@@ -3,3 +3,8 @@ Class 01 :
 Trained basic agent on dialogflow
 created express server and webhook for agent
 saving data to spreadsheet
+
+Class 02:
+refactored code
+connected webhook to dialogflow
+data saved/updated in mongo db
